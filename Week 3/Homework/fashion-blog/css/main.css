@@ -1,0 +1,60 @@
+h1 {
+	font-family: Lato;
+	font-size: 24px;
+	text-align: left;
+	color:#444444;
+	line-height: 1.5;
+}
+
+
+p2{
+	text-align: right;
+	color: red;
+	text-decoration-style: italic;
+}
+
+p3 {
+	font-family: Lato;
+
+}
+
+p4 { 
+	text-align: right;
+	color: red;
+	text-decoration-style: italic;
+
+ }
+
+li {
+display: inline;
+list-style-type: none;
+padding-right: 20px;
+  font-family: Lato;
+}
+
+.continue  {
+	color: red;
+	font-family: Lato;
+	text-align: right;
+}
+
+.containter {
+	width: 720px;
+	padding: 54px;
+	align-content: left; 
+
+}
+
+ul {
+display: inline;
+list-style-type: none;
+padding-right: 20px;
+  font-family: Lato;
+  font-color: gray;
+}
+
+
+
+ body{
+ 	font-family: Lato;
+ }

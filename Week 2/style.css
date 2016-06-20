@@ -1,0 +1,57 @@
+/* 1) Give <body> a grey background */
+body {
+  background-color: #b3b3b3
+  
+}
+
+/* 2) <h2> should have a black background, white text, and center alignment*/
+h2 {
+  background-color: red;
+  color: white;
+  text-align: center;
+  font-family: Avenir;
+}
+IMG {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+/* 3) <p> should have red text, size 14px font, and be underlined */
+p {
+  color: red;
+  font-size: 14px;
+  text-decoration: underline;
+  font-family: Avenir; 
+  text-align: center;
+}
+
+/* 4) <li> should have the helvetica font */
+li {
+  font-family: Avenir;
+  
+  
+}
+
+/* 5) <a> should be pink and not underlined */
+a {
+  color:red;
+  font-family: avenir;
+  link-align: center;
+  
+}
+
+/* Bonus 1 - display the <li> without the bullets */
+li {
+list-style-type: none;
+  text-align: center;
+
+}
+
+
+/* Bonus 2 - display the <li> elements horizontally! */
+li {
+display: inline;
+list-style-type: none;
+padding-right: 20px;
+  font-family: Avenir;
+}
