@@ -4,3 +4,11 @@ div{
 	width: 500px;
 	margin: 0 auto;
 }
+
+div{
+	background-image: url(ga_logo.png);
+	background-image: url("ga_logo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}

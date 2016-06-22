@@ -25,11 +25,12 @@ p4 {
 
  }
 
-li {
-display: inline;
-list-style-type: none;
-padding-right: 20px;
-  font-family: Lato;
+nav {
+	display: inline-block;
+	list-style-type: none;
+	padding-right: 20px;
+ 	font-family: Lato;
+	color: #dddddd;
 }
 
 .continue  {
