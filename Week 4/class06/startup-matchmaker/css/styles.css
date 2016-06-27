@@ -1,0 +1,56 @@
+
+header{
+	background: black;
+	overflow: hidden;
+	border-style: solid;
+	border-bottom: thick yellow;
+
+}
+
+h1{
+	font-size: 30px;
+	font-family: "Merriweather", serif;
+	color: yellow;
+	float: left;
+
+}
+
+nav{
+	align-content: right;
+	font-family: "Oswald";
+	font-size: 22px;
+	float:right;
+	text-decoration: none;
+	color: white;
+
+}
+
+nav .thick{
+	font-weight: bold;
+	font-size: 24px;
+}
+
+h2 {
+	font-family: "Merriweather", serif;
+	font-size: 29;
+	background: #C6C6C6;
+	}
+
+section.num1 {
+	background: #C6C6C6;
+	
+}
+
+div.num1 {
+	background-color: red;
+	height: 200px;
+	width: 320px;
+}
+
+section.num2 {
+	height: 440px;
+	width: 600px;
+}
+
+	
+
